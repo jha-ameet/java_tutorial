@@ -1,0 +1,5 @@
+1. create a applet file with extension .java
+2. compile it
+3. create html for the created class file
+4. execute using appletviewer command
+ e.g. appletviewer apllet.html
